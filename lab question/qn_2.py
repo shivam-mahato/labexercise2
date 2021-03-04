@@ -1,4 +1,4 @@
-# 3.N studentstake K apples and distribute them amongeach student evenly.
+# 3.N students take K apples and distribute them amongeach student evenly.
 # The remaining parts remain in the basket.
 # How many apples will eachsingle student get?
 # How many apples will remain in the basket?The program read the numbers N and K.
